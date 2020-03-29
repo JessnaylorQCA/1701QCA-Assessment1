@@ -11,7 +11,6 @@
 Say “Hello” to the BBC micro: bit!
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](exp1.jpg)
 
@@ -27,7 +26,6 @@ This was the first experiment that was conducted. This was the first experiment 
 Using a Light Sensor & Analog Inputs 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](exp2.jpg)
 
@@ -42,7 +40,6 @@ Unlike the first experiment, I found that this experiment was more difficult. Th
 Using the Accelerometer to Control Motor Speed
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](exp3.jpg)
 
@@ -57,7 +54,6 @@ This experiment was extremely difficult in comparison to the previous experiment
 Using the Accelerometer to Control Motor Speed (part 2)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](exp4.jpg)
 
@@ -72,7 +68,6 @@ This experiment was quite easy as it had an identical set up to the previous exp
  Making the Light Flash Every 2 seconds
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](exp5.jpg)
 
