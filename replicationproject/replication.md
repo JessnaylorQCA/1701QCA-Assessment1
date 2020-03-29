@@ -149,14 +149,15 @@ This relates to the project that I am working on as the temperature gauge that I
 
 URLS USED
 https://makecode.microbit.org/device/foil-circuits
+
 https://www.google.com.au/amp/s/bigl.es/micro-bit-infrared-timing-gate/amp/
+
 https://makecode.microbit.org/v0/00346-93225-00221-17959 
+
 https://lorrainbow.wordpress.com/2017/11/11/how-to-connect-wires-to-the-microbit/ 
 
 
 ## Project outcome ##
-
-*Complete the following information.*
 
 ### Project title ###
 Micro: bit Timing Gates
