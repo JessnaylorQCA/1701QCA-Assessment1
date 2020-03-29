@@ -133,43 +133,61 @@ This relates to the project that I am working on as the temperature gauge that I
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image]
+![Image](prodoc1.jpg)
 
+![Image](prodoc2.jpg)
 
+![Image](prodoc3.jpg)
 
-*Include screenshots of the code you have used.*
+![Image](prodoc4.jpg)
+
+![Image](prodoc5.jpg)
+
+![Image](prodoc6.jpg)
+
+![Image](prodoc7.jpg)
+
+URLS USED
+https://makecode.microbit.org/device/foil-circuits
+https://www.google.com.au/amp/s/bigl.es/micro-bit-infrared-timing-gate/amp/
+https://makecode.microbit.org/v0/00346-93225-00221-17959 
+https://lorrainbow.wordpress.com/2017/11/11/how-to-connect-wires-to-the-microbit/ 
+
 
 ## Project outcome ##
 
 *Complete the following information.*
 
 ### Project title ###
+Micro: bit Timing Gates
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This project is known as timing gates. This experiment includes a car that goes from one place to another. The two gates on either end of the cardboard are connected via the micro: bit so that the car can be detected when it passes through each gate. When the car passes through the first gate (0), and the micro: bit records the time as the variable (t0). once the car passes the second gate (1), the time is once again recorded as (t1). The micro: bit then calculates the distance between the two gates at which the car travelled through them. This project can be used by anyone. 
+
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](showcase1.jpg)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](addview.jpg)
 
 ### Reflection ###
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
 
+When looking back at the process of creating this project, it is evident that there were several strengths and weaknesses present. The part that I felt was the most successful section of the project was the coding. The code itself was relatively straight forward. I completely understood what was taking place, so it was extremely easy for me to create the code. I also found that the process of building the project was relatively easy. Everything ran smoothly during the building process and provided a result that I was happy with. The part that did not work extremely well and could have used some improvement was the wires. As I did not have any crocodile clips, I had to create my own wires using aluminium foil. This was extremely tedious and it was quite difficult getting the foil wires to stay attached to the micro: bit without crossing over each other. In the end, the wires worked successfully, however, it was still a time-consuming process that involved a lot of trial and error. 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
+Due to previous projects that we had examined during our studios, it was relatively easy to create this project. The main source was a webpage showed to us in class that explained in a step by step process, how to create the project with crocodile clips. From this, I went on to research ways on how to create wires from aluminium foil so that I could use them as a replacement and still provide the same results. 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
+I had seen a replication of this project online, where they had used a chair to assist them in the creation of the project. This helped me again a clearer understanding as to what is actually taking place as it showed what happens when the car goes through to activate the micro: bit. This was found at: https://bigl.es/micro-bit-infrared-timing-gate/ 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+A cool extension of this project could be to make it in a larger proportion. This project could be used for situations such as gates in front of house. With modification, more materials and more powerful sources, a project could be made that when a car arrives at the front gate, it activates the garage door that could be 20 metres away. This would mean that once the car has passed the gate, the time could be calculated so that the garage could open exactly on time. 
+
